@@ -1,16 +1,34 @@
-### Hi there 👋
+# 👋 Hey there! I'm [Hemant Kumar Kashyap](https://github.com/hemant052004)
 
-<!--
-**hemantkkashyap/hemantkkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate 3rd-year B.Tech student with a love for turning ideas into code. I breathe life into both websites and desktop applications. Fuelled by curiosity and caffeine, I believe in the power of clean code and creative problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently diving into INFORMATION TECHNOLOGY.
+- 🌱 Learning, coding, and repeating.
+
+## 🚀 What I Speak
+
+- 💻 Fluent in C, C++, Java.
+- 🌐 Web languages: HTML, CSS, JavaScript.
+- 🗃️ Database wrangler with MySQL.
+
+## 🌟 Featured Projects
+
+1. 🚀 [Event Managment](link to Awesome Website): Where pixels meet perfection.
+2. 🖥️ [CodeBox](https://github.com/hemant052004/CodeBox.git): A desktop wizardry in Java.
+
+Explore more in my [repositories](https://github.com/hemant052004)!
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hemant-kumar-kashyap-918a0b236): Let's connect for professional vibes.
+- 📧 Email me at [kashyaphemant2004@gmail.com](mailto:kashyaphemant2004@gmail.com)
+
+## 🎓 Academic Achievements
+
+- 🚀 Participated in the ACADEMIC Debugging Competition (2023).
+
+## 🌈 Thanks for coding along!
+
+Whether you're here for the code, the tech journey, or just some virtual camaraderie, welcome! Feel free to explore, contribute, and let's make the digital world a bit more awesome together. 🚀✨
