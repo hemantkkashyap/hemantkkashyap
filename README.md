@@ -9,7 +9,7 @@ I'm a passionate 3rd-year B.Tech student with a love for turning ideas into code
 
 ## 🚀 What I Speak
 
-- ![C Icon](<a href="https://iconscout.com/icons/c" class="text-underline font-size-sm" target="_blank">C</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>) Fluent in `C`.
+![c (1)](https://github.com/hemantkkashyap/hemantkkashyap/assets/122628923/f73416ec-dc8e-44f7-94d6-3bfa91e63451)
 - ![C++ Icon](link_to_cpp_icon.png) Fluent in `C++`.
 - ![Java Icon](link_to_java_icon.png) Fluent in `Java`.
 - 🌐 Web languages: `HTML`, `CSS`, `JavaScript`.
