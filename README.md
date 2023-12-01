@@ -9,9 +9,11 @@ I'm a passionate 3rd-year B.Tech student with a love for turning ideas into code
 
 ## 🚀 What I Speak
 
-- 💻 Fluent in C, C++, Java.
-- 🌐 Web languages: HTML, CSS, JavaScript.
-- 🗃️ Database wrangler with MySQL.
+- ![C Icon](link_to_c_icon.png) Fluent in `C`.
+- ![C++ Icon](link_to_cpp_icon.png) Fluent in `C++`.
+- ![Java Icon](link_to_java_icon.png) Fluent in `Java`.
+- 🌐 Web languages: `HTML`, `CSS`, `JavaScript`.
+- 🗃️ Database wrangler with `MySQL`.
 
 ## 🌟 Featured Projects
 
