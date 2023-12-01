@@ -9,9 +9,7 @@ I'm a passionate 3rd-year B.Tech student with a love for turning ideas into code
 
 ## 🚀 What I Speak
 
-![c (1)](https://github.com/hemantkkashyap/hemantkkashyap/assets/122628923/f73416ec-dc8e-44f7-94d6-3bfa91e63451)
-- ![C++ Icon](link_to_cpp_icon.png) Fluent in `C++`.
-- ![Java Icon](link_to_java_icon.png) Fluent in `Java`.
+- 💻 Fluent in `C`, `C++`, `Java`.
 - 🌐 Web languages: `HTML`, `CSS`, `JavaScript`.
 - 🗃️ Database wrangler with `MySQL`.
 
