@@ -15,7 +15,7 @@ I'm a passionate 3rd-year B.Tech student with a love for turning ideas into code
 
 ## 🌟 Featured Projects
 
-1. 🚀 [Event Managment](link to Awesome Website): Where pixels meet perfection.
+1. 🚀 [Event Managment](https://github.com/hemantkkashyap/EventManagment.git): Where pixels meet perfection.
 2. 🖥️ [CodeBox](https://github.com/hemant052004/CodeBox.git): A desktop wizardry in Java.
 
 Explore more in my [repositories](https://github.com/hemant052004)!
