@@ -24,28 +24,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 Programming Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> C++
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> PHP
+C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+PHP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 Web Development:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> HTML5
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS3
-<img src="https://getbootstrap.com" alt="bootstrap" width="40" height="40"/> Bootstrap
-<img src="https://www.mongodb.com/" alt="mongodb" width="40" height="40"/> MongoDB
-<img src="https://www.mysql.com/" alt="mysql" width="40" height="40"/> MySQL
-<img src="https://nodejs.org" alt="nodejs" width="40" height="40"/> Node.js
+HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+Bootstrap <img src="https://getbootstrap.com" alt="bootstrap" width="40" height="40"/>
+MongoDB <img src="https://www.mongodb.com/" alt="mongodb" width="40" height="40"/>
+MySQL <img src="https://www.mysql.com/" alt="mysql" width="40" height="40"/>
+Node.js <img src="https://nodejs.org" alt="nodejs" width="40" height="40"/>
 Mobile App Development:
-<img src="https://developer.android.com" alt="android" width="40" height="40"/> Android
-<img src="https://flutter.dev" alt="flutter" width="40" height="40"/> Flutter
+Android <img src="https://developer.android.com" alt="android" width="40" height="40"/>
+Flutter <img src="https://flutter.dev" alt="flutter" width="40" height="40"/>
 Version Control and Collaboration:
-<img src="https://git-scm.com/" alt="git" width="40" height="40"/> Git
+Git <img src="https://git-scm.com/" alt="git" width="40" height="40"/>
 Design and Prototyping:
-<img src="https://www.figma.com/" alt="figma" width="40" height="40"/> Figma
+Figma <img src="https://www.figma.com/" alt="figma" width="40" height="40"/>
 Containerization:
-<img src="https://www.docker.com/" alt="docker" width="40" height="40"/> Docker
+Docker <img src="https://www.docker.com/" alt="docker" width="40" height="40"/>
 Operating System:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> Linux
+Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantkkashyap&show_icons=true&locale=en&layout=compact" alt="hemantkkashyap" /></p>
