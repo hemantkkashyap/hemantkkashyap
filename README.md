@@ -1,38 +1,35 @@
-![profile](https://github.com/hemantkkashyap/hemantkkashyap/assets/122628923/dd975428-8cc6-4dee-9e72-25933f9d616a)
+<h1 align="center">Hi 👋, I'm HEMANT KUMAR KASHYAP</h1>
+<h3 align="center">I'm a passionate 3rd-year B.Tech student with a love for turning ideas into code. I breathe life into both websites and desktop applications. Fuelled by curiosity and caffeine, I believe in the power of clean code and creative problem-solving.</h3>
 
-## 💻 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkkashyap&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkkashyap" /> </p>
 
-I'm a passionate 3rd-year B.Tech student with a love for turning ideas into code. I breathe life into both websites and desktop applications. Fuelled by curiosity and caffeine, I believe in the power of clean code and creative problem-solving.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantkkashyap" alt="hemantkkashyap" /></a> </p>
 
-- 🔭 Currently diving into INFORMATION TECHNOLOGY.
-- 🌱 Learning, coding, and repeating.
+- 🔭 I’m currently working on [TEAM EVENT -V2](https://github.com/hemantkkashyap/Team-Event-version2-.git)
 
-**languages and tools:**  
+- 👨‍💻 All of my projects are available at [https://github.com/hemantkkashyap?tab=repositories](https://github.com/hemantkkashyap?tab=repositories)
 
-<p align="center">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+- 📫 How to reach me **kashyaphemant2004@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hemant kumar kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant kumar kashyap" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22972228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22972228" height="30" width="40" /></a>
+<a href="https://instagram.com/hemant_k_kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemant_k_kashyap" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hemantk05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hemantk05" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kashyaphemant201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kashyaphemant201" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hemant_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemant_5" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kashyaphekt13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kashyaphekt13" height="30" width="40" /></a>
 </p>
 
-## 🌟 Featured Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-1. 🚀 [Event Managment](https://github.com/hemantkkashyap/EventManagment.git): Where pixels meet perfection.
-2. 🖥️ [CodeBox](https://github.com/hemant052004/CodeBox.git): A desktop wizardry in Java.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hemantkkashyap"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hemantkkashyap" /></a></p><br><br>
 
-Explore more in my [repositories](https://github.com/hemant052004)!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantkkashyap&show_icons=true&locale=en&layout=compact" alt="hemantkkashyap" /></p>
 
-## 📫 Let's Connect
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantkkashyap&show_icons=true&locale=en" alt="hemantkkashyap" /></p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hemant-kumar-kashyap-918a0b236): Let's connect for professional vibes.
-- 📧 Email me at [kashyaphemant2004@gmail.com](mailto:kashyaphemant2004@gmail.com)
-
-## 🎓 Academic Achievements
-
-- 🚀 Participated in the ACADEMIC Debugging Competition (2023).
-
-## 🌈 Thanks for coding along!
-
-Whether you're here for the code, the tech journey, or just some virtual camaraderie, welcome! Feel free to explore, contribute, and let's make the digital world a bit more awesome together. 🚀✨
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantkkashyap&" alt="hemantkkashyap" /></p>
