@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I'm a passionate 3rd-year B.Tech student with a love for turning ideas into code. I breathe life into both websites and desktop applications. Fuelled by curiosity and caffeine, I believe in the power of clean code and creative problem-solving.</h4>
+<h4 align="center">I'm a passionate Final-year B.Tech student with a love for turning ideas into code. I breathe life into both websites and desktop applications. Fuelled by curiosity and caffeine, I believe in the power of clean code and creative problem-solving.</h4>
 
 ###
 
